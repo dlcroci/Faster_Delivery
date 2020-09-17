@@ -53,6 +53,7 @@ class Modal {
                     </label>
 
                     <input type="submit" value="Enviar" class="btn-form">
+
                 </form>
 
             <!-- formulario -->
