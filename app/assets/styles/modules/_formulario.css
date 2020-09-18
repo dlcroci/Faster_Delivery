@@ -1,7 +1,6 @@
 /* reglas CSS para formulario */
 .form-consulta {
     max-width: 500px; 
-    /* background: #eee;  */
     padding: 25px; 
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -30,7 +29,8 @@ textarea {
     height: 46px; line-height: 46px; 
     padding: 0 20px; 
     border-radius: 6px; 
-    color:#fff; text-decoration: none; 
+    color:#fff;
+    text-decoration: none; 
     text-transform: uppercase; 
     letter-spacing: 1px
 }
